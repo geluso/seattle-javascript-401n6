@@ -57,7 +57,6 @@ Week 16  Thursday  May   24th
 * Darcy	Knore
 * Eric Cobb
 * Fredric	Rapp
-* Ixius	Procopios
 * Mitchel	Hall
 * Nicholas Damberg
 * Rafael Malave
